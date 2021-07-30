@@ -1,2 +1,3 @@
 # Subsets
-Shows all subsets of a string
+
+Receives a string and shows all the subsets of it
